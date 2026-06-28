@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0139/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 合訂刪補大易集義粹言
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 21:59:37.996621'
+  source:
+    repository: kanripo
+    path: KR1a0139/KR1a0139_000.txt
+hash: sha256:2fc5b93bfc0451602d5b122984f0ac4fa03d97199cca91516f958712461afee4

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0139/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 合訂刪補大易集義粹言
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 21:59:37.996621'
+  source:
+    repository: kanripo
+    path: KR1a0139/KR1a0139_000.txt
+hash: sha256:8d0bb9e76b418b847d928bd55ac2f687721f9dc57becf70627864b1d5549df74
